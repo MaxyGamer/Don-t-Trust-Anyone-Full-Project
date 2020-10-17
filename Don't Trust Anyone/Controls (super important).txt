@@ -1,0 +1,6 @@
+//IMPORTANT!!!
+------------------
+To Move: WASD
+To Kill: F
+To Use: E
+To Report: Q
